@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta 0.7",
+      "price": "5.99"
+    },
+    {
+      "name": "Camiseta OhPigy carnaval",
+      "price": "79.90",
+      "id": 2
+    },
+    {
+      "name": "Camiseta OhPigy shit",
+      "price": "78.95",
+      "id": 3
+    }
+  ]
+}
